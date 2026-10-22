@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project on telecom customer data: data inspection in **Python**, analysis in **SQL (MySQL)**, and an interactive dashboard in **Power BI** to understand **why customers leave (churn)**.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard.preview.png)
 
 ---
 
